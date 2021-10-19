@@ -1,6 +1,6 @@
 # AIO
 AIO 是一个收集项目，它收集一些对于数据库来说，比较特殊的pl/sql功能   
-all-in-oracle is a collection，that collecting special pl/sql function from 3rd party，to oracle database    
+all-in-oracle is a collection，that collecting special  utility packages of pl/sql  from 3rd party，to oracle database    
 
 很多年前，我面临一个比较特殊的情况，部门收到了很多系统功能需求，但是缺少各种开发人员，
 唯一比较充足的就是使用sql开发报表的人员和数据库运维人员，我就想着能不能用这些人最熟悉的方式，自己找一些或者做一些工具及组件，让这些人来使用，以满足快速开发的需求。  
