@@ -309,10 +309,11 @@ https://github.com/Dark-Athena/pl4py
 https://github.com/Dark-Athena/PROCSENDEMAIL_SSL-oracle   
 
 - xlsx  在plsql中生成excel（xlsx文件）
+  （暂时无链接，因为我在Anton Scheffer及Sam.T的版本后开启了一个分支，增加了一些功能，并修复了一些错误，而原作者也在同时进行更新，双个版本并没有合并代码，暂未进行代码比较）
   
 - workweixinrobot  在plsql中调用企业微信群机器人api发送消息   
 https://github.com/Dark-Athena/workweixinrobot-oracle  
   
-- 5.sql_to_dblink  在plsql中对查询sql的字符串，转换成带指定dblink的字符串   
+- sql_to_dblink  在plsql中对查询sql的字符串，转换成带指定dblink的字符串   
 https://github.com/Dark-Athena/sql_to_dblink-oracle  
   
