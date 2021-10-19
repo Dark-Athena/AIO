@@ -302,15 +302,15 @@ Oracle PL/SQL 实用程序库
   * http://code.google.com/p/oracle-ddl2svn/
 
 # 然后，我补充的
-- 1.pl4py  在plsql中使用python函数   
+- pl4py  在plsql中使用python函数   
 https://github.com/Dark-Athena/pl4py   
   
-- 2.email(ssl)  在plsql中发送ssl加密邮件   
+- email(ssl)  在plsql中发送ssl加密邮件   
 https://github.com/Dark-Athena/PROCSENDEMAIL_SSL-oracle   
 
-- 3.xlsx  在plsql中生成excel（xlsx文件）
+- xlsx  在plsql中生成excel（xlsx文件）
   
-- 4.workweixinrobot  在plsql中调用企业微信群机器人api发送消息   
+- workweixinrobot  在plsql中调用企业微信群机器人api发送消息   
 https://github.com/Dark-Athena/workweixinrobot-oracle  
   
 - 5.sql_to_dblink  在plsql中对查询sql的字符串，转换成带指定dblink的字符串   
