@@ -9,9 +9,13 @@ all-in-oracle is a collection，that collecting special  utility packages of pl/
 
 但大多数orale的基础使用者，并不知道plsql作为一种开发语言，还能实现这么多其他语言比如python/c#/java才能实现的功能。  
 
-一方面，ORACLE数据库会不断升级来支持新的功能，但另一方面，也有不少人在开发ORACLE的第三方组件。  
+一方面，ORACLE数据库会不断升级来支持新的功能，但另一方面，也有不少人在开发ORACLE的第三方组件或者功能。  
 
-首先，看这里   
+比如  
+https://oracle-base.com/dba/scripts  
+当然这里大部分都是DBA维护脚本，不过也有不少可以用于程序开发的功能
+
+还有      
 https://github.com/mortenbra/alexandria-plsql-utils   
 alexandria-plsql-utils已经收集了很多很多plsql组件，为避免我更新不及时，对于这个库中已经存在的，我不会在我的github账号里上传，本项目只做索引     
   
@@ -20,7 +24,7 @@ alexandria-plsql-utils已经收集了很多很多plsql组件，为避免我更�
 #  alexandria-plsql-utils
 Oracle PL/SQL 实用程序库
 
-![](alexandria-logo.jpg)
+![](https://github.com/mortenbra/alexandria-plsql-utils/blob/master/alexandria-logo.jpg)
 
 该库是 PL/SQL 的各种实用程序包的集合，以及指向其他地方托管和维护的有用库的链接。
 
@@ -302,7 +306,8 @@ Oracle PL/SQL 实用程序库
 https://github.com/Dark-Athena/pl4py   
   
 - 2.email(ssl)  在plsql中发送ssl加密邮件   
-  
+https://github.com/Dark-Athena/PROCSENDEMAIL_SSL-oracle   
+
 - 3.xlsx  在plsql中生成excel（xlsx文件）
   
 - 4.workweixinrobot  在plsql中调用企业微信群机器人api发送消息   
