@@ -18,8 +18,26 @@ https://oracle-base.com/dba/scripts
 还有      
 https://github.com/mortenbra/alexandria-plsql-utils   
 alexandria-plsql-utils已经收集了很多很多plsql组件，为避免我更新不及时，对于这个库中已经存在的，我不会在我的github账号里上传，本项目只做索引     
+
+# 先来我补充的
+
+- pl4py  在plsql中使用python函数   
+https://github.com/Dark-Athena/pl4py   
   
-我先把alexandria-plsql-utils的readme翻译成中文，方便国人阅读，该文档中，无链接的文件名，请移步至 https://github.com/mortenbra/alexandria-plsql-utils  进行下载
+- email(ssl)  在plsql中发送ssl加密邮件   
+https://github.com/Dark-Athena/PROCSENDEMAIL_SSL-oracle   
+
+- xlsx  在plsql中生成excel（xlsx文件）
+  （暂时无链接，因为我在Anton Scheffer及Sam.T的版本后开启了一个分支，增加了一些功能，并修复了一些错误，而原作者也在同时进行更新，双个版本并没有合并代码，暂未进行代码比较）
+  
+- workweixinrobot  在plsql中调用企业微信群机器人api发送消息   
+https://github.com/Dark-Athena/workweixinrobot-oracle  
+  
+- sql_to_dblink  在plsql中对查询sql的字符串，转换成带指定dblink的字符串   
+https://github.com/Dark-Athena/sql_to_dblink-oracle  
+
+然后，  
+我把alexandria-plsql-utils的readme翻译成中文，方便国人阅读，该文档中，无链接的文件名，请移步至 https://github.com/mortenbra/alexandria-plsql-utils  进行下载
 
 #  alexandria-plsql-utils
 Oracle PL/SQL 实用程序库
@@ -301,19 +319,5 @@ Oracle PL/SQL 实用程序库
 
   * http://code.google.com/p/oracle-ddl2svn/
 
-# 然后，我补充的
-- pl4py  在plsql中使用python函数   
-https://github.com/Dark-Athena/pl4py   
-  
-- email(ssl)  在plsql中发送ssl加密邮件   
-https://github.com/Dark-Athena/PROCSENDEMAIL_SSL-oracle   
 
-- xlsx  在plsql中生成excel（xlsx文件）
-  （暂时无链接，因为我在Anton Scheffer及Sam.T的版本后开启了一个分支，增加了一些功能，并修复了一些错误，而原作者也在同时进行更新，双个版本并没有合并代码，暂未进行代码比较）
-  
-- workweixinrobot  在plsql中调用企业微信群机器人api发送消息   
-https://github.com/Dark-Athena/workweixinrobot-oracle  
-  
-- sql_to_dblink  在plsql中对查询sql的字符串，转换成带指定dblink的字符串   
-https://github.com/Dark-Athena/sql_to_dblink-oracle  
   
