@@ -15,7 +15,7 @@ all-in-oracle is a collection，that collecting special  utility packages of pl/
 https://github.com/mortenbra/alexandria-plsql-utils   
 alexandria-plsql-utils已经收集了很多很多plsql组件，为避免我更新不及时，对于这个库中已经存在的，我不会在我的github账号里上传，本项目只做索引     
   
-我先把alexandria-plsql-utils的readme翻译成中文，方便国人阅读
+我先把alexandria-plsql-utils的readme翻译成中文，方便国人阅读，该文档中，无链接的文件名，请移步至 https://github.com/mortenbra/alexandria-plsql-utils  进行下载
 
 #  alexandria-plsql-utils
 Oracle PL/SQL 实用程序库
@@ -298,17 +298,16 @@ Oracle PL/SQL 实用程序库
   * http://code.google.com/p/oracle-ddl2svn/
 
 # 然后，我补充的
-- 2.pl4py  
-https://github.com/Dark-Athena/pl4py
+- 1.pl4py  在plsql中使用python函数   
+https://github.com/Dark-Athena/pl4py   
   
+- 2.email(ssl)  在plsql中发送ssl加密邮件   
   
-- 5.email(ssl)  
+- 3.xlsx  在plsql中生成excel（xlsx文件）
   
-- 6.xlsx  
-  
-- 7.workweixinrobot  
+- 4.workweixinrobot  在plsql中调用企业微信群机器人api发送消息   
 https://github.com/Dark-Athena/workweixinrobot-oracle  
   
-- 8.sql_to_dblink  
+- 5.sql_to_dblink  在plsql中对查询sql的字符串，转换成带指定dblink的字符串
 https://github.com/Dark-Athena/sql_to_dblink-oracle  
   
