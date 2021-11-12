@@ -36,6 +36,9 @@ https://github.com/Dark-Athena/workweixinrobot-oracle
 - sql_to_dblink  在plsql中对查询sql的字符串，转换成带指定dblink的字符串   
 https://github.com/Dark-Athena/sql_to_dblink-oracle  
 
+- sql_to_html 将一个查询sql转换成对应数据内容的HTML网页表格
+https://github.com/Dark-Athena/sql_to_html-oracle
+
 然后，  
 我把alexandria-plsql-utils的readme翻译成中文，方便国人阅读，该文档中，无链接的文件名，请移步至 https://github.com/mortenbra/alexandria-plsql-utils  进行下载
 
